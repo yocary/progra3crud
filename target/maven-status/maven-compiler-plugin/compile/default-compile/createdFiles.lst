@@ -1,0 +1,10 @@
+com\crud\demo\modelo\Persona.class
+com\crud\demo\service\PersonaService.class
+com\crud\demo\repositories\GeneralRepository.class
+com\crud\demo\repositories\PersonaRepository.class
+com\crud\demo\dto\eliminarRegistroDto.class
+com\crud\demo\CrudApplication.class
+com\crud\demo\dto\actualizarRegistroDto.class
+com\crud\demo\controller\Controlador.class
+com\crud\demo\interfaces\IPersona.class
+com\crud\demo\interfaceService\IpersonaService.class
